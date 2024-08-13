@@ -6,6 +6,6 @@ sweet alert
 boot strap modal
 modal in sign in or login
 media Querry
-modal hundal
+modal handel
 PWA test after Eid
 
